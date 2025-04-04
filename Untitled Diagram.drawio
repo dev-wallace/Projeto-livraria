@@ -16,12 +16,6 @@
         <mxCell id="17acba5748e5396b-9" value="- CONCLUIDA" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="17acba5748e5396b-2" vertex="1">
           <mxGeometry y="74" width="141" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5d2195bd80daf111-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="948" as="sourcePoint" />
-            <mxPoint x="730" y="978" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5C5wdqBMW8rfrFLnIl43-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5d2195bd80daf111-15" target="5C5wdqBMW8rfrFLnIl43-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
